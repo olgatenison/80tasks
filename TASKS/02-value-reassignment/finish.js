@@ -10,6 +10,13 @@
  *
  * 5. Выведите значение переменной в консоль
  */
+
 let isStudent;
-isStudent = "Olga";
+
+isStudent = true;
+
+console.log(isStudent);
+
+isStudent = false;
+
 console.log(isStudent);
