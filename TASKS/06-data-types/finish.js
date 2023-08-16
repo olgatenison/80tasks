@@ -12,3 +12,11 @@
  * 2. Выведите в консоль тип каждого из значений
  * используя оператор typeof
  */
+
+const a = "Olga";
+const b = 35;
+const c = true;
+const d = null;
+let e;
+const f = {};
+const g = [1, 2, 3];

@@ -10,15 +10,9 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
-const myName = "Bogdan";
-const mySurname = "Stashchuk";
-const myProfession = "Instructor";
-
-// OPTION 1
-const personInfo1 =
-  "My name is " + myName + " " + mySurname + " and I am " + myProfession;
-
-console.log(personInfo1);
+const myName = "Olga";
+const mySurname = "Tenison";
+const myProfession = "FrontEnd Dev";
 
 // OPTION 2
 const personInfo2 = `My name is ${myName} ${mySurname} and I am ${myProfession}`;

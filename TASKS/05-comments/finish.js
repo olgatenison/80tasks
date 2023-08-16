@@ -7,3 +7,16 @@
  *
  * 3. Создайте многострочный комментарий
  */
+
+// SINGLE-LINE COMMENT
+// Это однострочный комментарий
+
+// INLINE COMMENT
+const myName = "Olga"; // это моё имя
+
+// MULTILINE COMMENT 1
+/* Это
+многострочный 
+комментарий */
+
+const mySurname = "Tenison";
